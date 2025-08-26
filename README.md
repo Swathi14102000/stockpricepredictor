@@ -32,12 +32,6 @@ Frontend: HTML templates with Flask rendering
 
 Installation
 
-Clone the repository
-
-git clone https://github.com/Swathi14102000/weatherapp.git
-cd weatherapp
-
-
 Create a virtual environment
 
 python -m venv venv
